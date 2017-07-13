@@ -8,7 +8,7 @@ Part of Siraj Raval's weekly programming challenge.
 ## Getting Started
 I would recommend using Linux/Mac for this as installing the dependency lightfm on Windows is nearly impossible.
 
-On Linux/Mac, please follow Siraj's [tutorial video](https://www.youtube.com/watch?v=T5pRlIbr6gg) to get started.
+Please follow Siraj's [tutorial video](https://www.youtube.com/watch?v=9gBC9R-msAk) to get started.
 
 ### Dependencies
 * lightfm
