@@ -1,17 +1,17 @@
 # Artist-Recommedation-System
-A very basic classification program that classifies an individual as 'male' or 'female' based on features such as height, weight and shoe size.
+A very basic recommendation program that recommends artists to users based on hybrid=collaborative+content based model.
 
 Part of Siraj Raval's weekly programming challenge.
 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9gBC9R-msAk/0.jpg)](http://www.youtube.com/watch?v=9gBC9R-msAk)
 ## Getting Started
-I would recommend using [Anacoda](https://www.continuum.io/what-is-anaconda) for this if you are on Windows as all packages/dependencies gets installed.
+I would recommend using Linux/Mac for this as installing the dependency lightfm on Windows is nearly impossible.
 
 On Linux/Mac, please follow Siraj's [tutorial video](https://www.youtube.com/watch?v=T5pRlIbr6gg) to get started.
 
 ### Dependencies
-* sk-learn
+* lightfm
 * numpy
 * matplotlib
 ### Editor
